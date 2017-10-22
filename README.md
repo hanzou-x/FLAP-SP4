@@ -1,8 +1,9 @@
 # FLAP-SP4
-FLAP SP4 WinQt and linux daemon
+FLAP SP4.1 WinQt and linux daemon
 
 NODE Updates , 
-Linux 4 Compatpility update 
+Linux 4 Compatpility update
+4 statc nodes hard codded to fight 51%
 
 WinQT Gui 
 download and run 
